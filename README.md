@@ -1,4 +1,10 @@
-<img src="GithubBanner.jpg" alt="GitHub Banner" width="100%" /> 
+## 🐍 GitHub Contribution Snake  
+<picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Atreya45/Atreya45/output/github-snake-dark.svg" /> 
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Atreya45/Atreya45/output/github-snake.svg" /> 
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Atreya45/Atreya45/output/github-snake.svg" /> 
+</picture>
+
 
 # Hello World!, I'm Nawadeep Atreya 👋🏼 🚀  
 🎯 Coding Club Moderator at NIT Silchar  
@@ -7,6 +13,7 @@
 🏆 Grinding towards the **LeetCode Guardian Badge**  
 
 ---
+<img src="GithubBanner.jpg" alt="GitHub Banner" width="100%" /> 
 
 ## 💻 Tech Arsenal
 
@@ -28,25 +35,26 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atreya45&show_icons=true&theme=radical)
 
-## 🏆 Competitive Programming
-- **LeetCode:** [Nawadeep's Profile](https://leetcode.com/NawadeepAtreya/)  
-- **CodeForces:** [Nawadeep's Profile](https://codeforces.com/profile/Atreya45)  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atreya45&label=Profile%20views&color=0e75b6&style=flat" alt="atreya45" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atreya45" alt="atreya45" /></a> </p>
 
-## 🤝 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nawadeepatreya/)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/nawadeep_atreya)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atreya45)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/nawadeep_atreya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nawadeep_atreya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nawadeepatreya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nawadeepatreya" height="30" width="40" /></a>
+<a href="https://fb.com/nawadeep.atreya.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nawadeep.atreya.5" height="30" width="40" /></a>
+<a href="https://instagram.com/_the_aromatic_proton_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_the_aromatic_proton_" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/atreya45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="atreya45" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/atreya45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atreya45" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/nawadeepabpcr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nawadeepabpcr" height="30" width="40" /></a>
+</p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atreya45&show_icons=true&locale=en&layout=compact" alt="atreya45" /></p>
 
-## 🐍 GitHub Contribution Snake  
-<picture> 
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Atreya45/Atreya45/output/github-snake-dark.svg" /> 
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Atreya45/Atreya45/output/github-snake.svg" /> 
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Atreya45/Atreya45/output/github-snake.svg" /> 
-</picture>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atreya45&show_icons=true&locale=en" alt="atreya45" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atreya45&" alt="atreya45" /></p>
+
+
